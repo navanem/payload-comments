@@ -6,12 +6,12 @@
   "author": "navanem <tools@sunitech.ch>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/navanem/navanem_payload_comments.git"
+    "url": "git+https://github.com/navanem/payload-comments.git"
   },
   "bugs": {
-    "url": "https://github.com/navanem/navanem_payload_comments/issues"
+    "url": "https://github.com/navanem/payload-comments/issues"
   },
-  "homepage": "https://github.com/navanem/navanem_payload_comments#readme",
+  "homepage": "https://github.com/navanem/payload-comments#readme",
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
